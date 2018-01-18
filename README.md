@@ -14,3 +14,10 @@ or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 Happy coding!Happy coding!
 
 # laravelstudy
+サルでもわかるGitコマンド
+add 変更をインデックスに登録する
+commit インデックスの状態を記録するサルでもわかるGitコマンド
+add 変更をインデックスに登録する
+commit インデックスの状態を記録するサルでもわかるGitコマンド
+add 変更をインデックスに登録する
+commit インデックスの状態を記録する
